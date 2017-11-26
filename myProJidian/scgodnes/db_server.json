@@ -1,0 +1,109 @@
+{
+  "roleManagement":{
+    "code": 0,
+    "data": [
+        {
+            "id": "1",
+            "name": "工程师",
+            "description": "Magni rerum reprehenderit eum numquam pariatur. Et deleniti eum similique voluptatum iste enim. Exercitationem laborum sequi consequatur commodi corrupti. Accusantium alias enim est unde dignissimos in atque. Earum qui perferendis deleniti et.",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1482460419000,
+            "updatedAt": 1482460419000
+        },
+        {
+            "id": "3",
+            "name": "产品经理",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1482460419000,
+            "updatedAt": 1482460419000
+        },
+        {
+            "id": "4",
+            "name": "部门主管",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1482460419000,
+            "updatedAt": 1482460419000
+        },
+        {
+            "id": "5",
+            "name": "金融组",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "金融组角色",
+            "createdAt": 1482691557000,
+            "updatedAt": 1482691557000
+        },
+        {
+            "id": "6",
+            "name": "销售-管理员",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "销售管理员",
+            "createdAt": 1482769245000,
+            "updatedAt": 1482769245000
+        },
+        {
+            "id": "7",
+            "name": "Closer Admin",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "Closer  Admin",
+            "createdAt": 1490193310000,
+            "updatedAt": 1490193310000
+        },
+        {
+            "id": "9",
+            "name": "销售",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1495672805000,
+            "updatedAt": 1495672805000
+        },
+        {
+            "id": "10",
+            "name": "测试管理员",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1500138703000,
+            "updatedAt": 1500138703000
+        },
+        {
+            "id": "11",
+            "name": "数据管理员",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "数据管理员角色，在用户账户和CRM客户管理中可以查看所有客户的信息，并可以在CRM客户管理中维护相应信息（删除、编辑等）；",
+            "createdAt": 1500317637000,
+            "updatedAt": 1500317637000
+        },
+        {
+            "id": "12",
+            "name": "权限分配",
+            "description": "",
+            "creatorUserId": "1",
+            "remarks": "",
+            "createdAt": 1508772062000,
+            "updatedAt": 1508772062000
+        }
+    ],
+    "error": null,
+    "message": null,
+    "exception": null,
+    "isPage": null
+  },
+  "order":{
+    "message":"success",
+    "data":{
+      "orderId":"1224134324325123",
+      "amount":"1000000.34",
+      "orderType":"申购"
+    }
+  }
+}

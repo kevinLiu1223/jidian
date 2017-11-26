@@ -1,0 +1,17 @@
+.head-user .ant-dropdown-link{
+  float: right;
+}
+.head-user .avatar{
+  float: left;
+  margin-top:8px;
+  margin-right:5px;
+}
+a{
+  /* color: rgba(255, 255, 255, 0.8); */
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: bold;
+}
+.ant-layout-header{
+  /* 373D41 */
+  background-color: #a2a2a2;
+}

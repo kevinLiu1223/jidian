@@ -1,0 +1,42 @@
+.ant-avatar-lg{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  line-height: 60px;
+}
+.ant-avatar-lg > *{
+  line-height: 60px;
+}
+.logo h1{
+  color: rgba(255, 255, 255, 0.85);
+  
+}
+.welcome-user{
+  text-align: center;
+  margin-right: 40px;
+  margin-top: -10px;
+}
+.ant-avatar-lg{
+  margin-left: 50px;
+}
+.logo{
+  text-align: center;
+  margin-right: 20px;
+}
+.ant-menu-dark{
+  color: rgba(255, 255, 255, 0.85);
+  background-color: #335679;
+}
+.ant-layout-sider{
+  background-color: #335679;
+  padding-right: 10px;
+}
+.ant-menu-inline .ant-menu-submenu-title{
+  font-size: 14px;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub{
+  background-color: #263f58;
+}
+.ant-menu-dark.ant-menu-inline .ant-menu-item:hover{
+  background-color: #214b75;
+}
